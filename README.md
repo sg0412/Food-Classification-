@@ -1,5 +1,6 @@
 # Food-Classification-
 Using Neural Networks 
+
 Diet is very important in human life. Obtaining adequate nutrition from everyday meals is essential for our health.
 To know what we eat, we often make a record of everyday meals. Such food recording is usually a manual exercise using textual description, but manual recording is tedious and time consuming. To overcome this difficulty, there have been attempts to assist food recording by using information technology. Image recognition of food items would be a good solution to food recording. Taking a picture would then be a sufficient record.
 
